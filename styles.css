@@ -1,9 +1,9 @@
-
-
 #first {
-    background-color: black;
+    background-color: black;   
     color: white;
     max-width: 50vw;
+    
+        
 }
 
 
@@ -11,6 +11,7 @@
     background-color: red;
     color: white;
     max-width: 50vw;
+    
 }
 
 .third {
